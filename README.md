@@ -1,4 +1,3 @@
-# Applied-Coding-Skills
 # Applied Coding Skills
 
 ## 📌 About
